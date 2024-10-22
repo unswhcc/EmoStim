@@ -15,9 +15,9 @@ Supplementary material [Dataset_FilmClipsDetails](https://tinyurl.com/FilmClipsD
 
 The dataset is distributed under a custom End User License Agreement (EULA). Please read the [EULA](EULA_EmoStim Dataset.pdf) carefully before using the dataset.
 
-## Accessing the Dataset
+## Accessing the Video Dataset
 
-To access the dataset itself, please complete the [EULA](EULA_EmoStim Dataset.pdf) and send it to **g.mohammadi@unsw.edu.au**. Once we receive the completed EULA and verify the information, you will be granted access to the dataset.
+To access the video dataset, please complete the [EULA](EULA_EmoStim Dataset.pdf) and send it to **g.mohammadi@unsw.edu.au**. Once we receive the completed EULA and verify the information, you will be granted access to the dataset.
 
 ## Publications
 
